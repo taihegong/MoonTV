@@ -327,4 +327,4 @@ MoonTV 支持标准的苹果 CMS V10 API 格式。
 - [HLS.js](https://github.com/video-dev/hls.js) — 实现 HLS 流媒体在浏览器中的播放支持。
 - 感谢所有提供免费影视接口的站点。
 
-trigger
+tri
